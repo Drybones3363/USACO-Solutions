@@ -1,6 +1,6 @@
 [Problem Here](http://www.usaco.org/index.php?page=viewproblem2&cpid=593)
 
-```C
+```python
 #include<fstream>
 #include<vector>
 
