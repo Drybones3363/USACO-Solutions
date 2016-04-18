@@ -1,6 +1,4 @@
-http://www.usaco.org/index.php?page=viewproblem2&cpid=593
-
-~~~~~~~~~~~~~~~~~~~~~~~~
+//http://www.usaco.org/index.php?page=viewproblem2&cpid=593
 
 #include<fstream>
 #include<vector>
@@ -48,5 +46,3 @@ int main() {
     }
     cout << ret;
 }
-
-~~~~~~~~~~~~~~~~~~~~~~~~
